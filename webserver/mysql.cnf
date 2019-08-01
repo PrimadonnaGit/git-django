@@ -1,0 +1,5 @@
+[client]
+database = client
+host = localhost
+user = ina
+password = inajia
