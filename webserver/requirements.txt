@@ -10,7 +10,7 @@ Pillow==6.0.0
 Keras==2.2.4
 Keras-Applications==1.0.7
 Keras-Preprocessing==1.0.9
-tensorflow==1.13.1
+tensorflow==1.15.2
 opencv-python
 
 requests==2.20.1
